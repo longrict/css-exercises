@@ -18,7 +18,7 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 200px;
+  max-width: 180px;
 }
 .objects {
   display: flex;
